@@ -1,34 +1,34 @@
 # 2019 Combustion Early Career Investigator Workshop
 
-A 1.5-day workshop on the future of the combustion research community will be held 22–23 April 2017 in College Park, Maryland, immediately prior to the [US National Combustion Meeting](http://blog.umd.edu/combustion2017/).
+A 1.5-day workshop for early career faculty and researchers in combustion and fire science
+will be held 23–24 March 2019 in Pasadena, California, immediately prior to the
+[11th US National Combustion Meeting](https://wssci.us/meetings/ncm2019/).
 
-This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural and technical issues facing the community.
+This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural issues facing the community.
 
 All participants in the workshop are expected to comply with its [Code of Conduct](/code-of-conduct),
 both during the workshop and in any communications associated with it before, during, or after the event itself.
 
 ### Motivation
 
-While combustion is responsible for nearly 70% of energy consumption in the U.S., and inevitably will remain a large component for decades to come, the future of the combustion research community is less certain. Due to ineffective direct communication from the scientific community, the public and policymakers are unaware of the often exciting and important research topics and ongoing breakthroughs in the field. This starkly contrasts other research communities such as nuclear engineering and astronomy that have thrived since adapting to modern, open research practices and have diversified through cross-pollination with connected fields. The combustion community has resisted both changes. Finally, the field faces a population crisis in attracting and retaining a more diverse community of researchers, with talented researchers at all experience levels leaving the field due to lacking a sense of community.
+This workshop follows from the 2017 NSF-funded workshop entitled “Sustaining the combustion research community: ensuring the field doesn’t burn out” (award #1733968), which was held in April 2017 ahead of the US National Combustion Meeting in College Park, MD. The goal of the original workshop was to learn about and discuss future challenges in the field of combustion from the perspective of early career researchers. Several topics were discussed, including topics related to people in the field (attracting and retaining a more diverse community, public engagement, hostile and confrontational climate, improving educational outcomes) and research in the field (open publishing, multi-disciplinary collaboration, balancing fundamental and applied research). Each of these topic areas produced a series of action items, many of which have been implemented, or at least begun, in the year and a half since the workshop.
 
-This workshop is intended to bring together junior faculty working in combustion and fire research, with the goal of learning about and discussing future challenges in the field from the perspective of early-career researchers. Primary objectives include identifying challenges, educating the early-career participants about such challenges, and discussing possible solutions. Discussions will be split into two thrusts, roughly corresponding to the two workshop days: cultural issues and technical issues facing the field. Participants will be limited to junior faculty researchers (i.e., untenured or recently tenured) to keep discussions focused on the issues facing the future of the research field.
+This workshop resulted in several significant impacts on early-career researchers. Examples include:
+- Establishment of an early-career advisory board reporting to the executive committee of the Combustion Institute, whose membership includes a number of participants of the workshop (Michael Mueller – 2 year term, Jacqueline O’Connor – 2 year term, Nicole Labbe – 3 year term, Patton Allison – 3 year term).
+- Establishment of an early-career advisory board reporting to the US Section Board, whose members include participants of the workshop (Perrine Pepiot – chair, Michael Mueller, Erica Belmont, Jacqueline O’Connor, Kyle Niemeyer).
+- Public announcement of code of ethics by Prof. Arnaud Trouvé at opening of the US National Meeting at the behest of members of the workshop. Similar announcements were made at both the Eastern and Western states meetings in Spring 2018.
+- Nomination and subsequent election of early-career researchers onto Combustion Institute section boards, resulting in the following numbers of current board members: 8 in Western States, 2 in Central States, and 7 in Eastern States.
+- Development of diversity and inclusion activities within the US sections.
+- Workshops focusing on mentoring, diversity, and inclusion at both the Eastern and Western States Section meetings in Spring 2018.
+- Several research collaborations have arisen from networking opportunities at the workshop, including coordinated CAREER proposals (Jacqueline O’Connor and Richard West) and others.
+- Addition of new Education and Outreach colloquia in combustion-related meetings, including a WiPP track at the Combustion Symposium.
 
-Discussion topics related to cultural issues include:
- - How can we attract and retain a more diverse researcher community?
- - Related, how do we engage more with the public, so they can better understand the exciting and important research that is going on?
- - How can we ensure combustion research has a future?
- - How can we improve educational content? Most course materials are based on older content, have little numerical content, etc.
- - How can we leverage research in reacting flows to larger educational outcomes?
+Additionally, the workshop created a close-knit community of early-career combustion researchers who have kept in touch since the event. Several scientific collaborations and friendships were forged at this meeting, which will undoubtedly enhance the quality of the field going forward.
 
-Topics related to open technical issues include:
- - How do we encourage adoption of better practices in the community?
- - The field lacks reputable open-access publication venues.
- - How can we encourage general open-science practices?
- - How to encourage more cross-pollination with other related research fields?
- - What should publishing look like?
+Given the significant positive impacts of the first workshop, we want to continue to build momentum and create a framework for establishing a recurring workshop, tied with the biennial US National Meeting, to continue to support early-career researchers and academics in the US. While real progress has been made since the last workshop, there are still a number of areas where the community could improve further, and we believe the early-career members of the combustion community can contribute significantly. The specific goal of this workshop is to further develop four topics that the early-career community agreed were high-priority items.
 
 ### Acknowledgements
 
-We thank the National Science Foundation for supporting this workshop under grant [CBET-1733968](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1733968&HistoricalAwards=false). You can find the workshop proposal shared openly via <https://doi.org/10.6084/m9.figshare.4620163>.
+We thank the National Science Foundation for supporting this workshop under grant [CBET-1901570](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1901570&HistoricalAwards=false).
 
 ![NSF logo](/nsf-logo.jpg)
