@@ -13,13 +13,13 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-      <a href="/" class="btn">Home</a>
-      <a href="/agenda" class="btn">Agenda</a>
-      <a href="/venue" class="btn">Venue</a>
-      <a href="/code-of-conduct" class="btn">Code of Conduct</a>
-      <a href="/participants" class="btn">Participants</a>
-      <a href="/output" class="btn">Output</a>
-      <a href="/registration" class="btn">Registration</a>
+      <a href="{{ site.url }}" class="btn">Home</a>
+      <a href="{{ site.url }}/agenda" class="btn">Agenda</a>
+      <a href="{{ site.url }}/venue" class="btn">Venue</a>
+      <a href="{{ site.url }}/code-of-conduct" class="btn">Code of Conduct</a>
+      <a href="{{ site.url }}/participants" class="btn">Participants</a>
+      <a href="{{ site.url }}/output" class="btn">Output</a>
+      <a href="{{ site.url }}/registration" class="btn">Registration</a>
 
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
