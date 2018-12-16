@@ -4,9 +4,9 @@ A 1.5-day workshop for early career faculty and researchers in combustion and fi
 will be held 23–24 March 2019 in Pasadena, California, immediately prior to the
 [11th US National Combustion Meeting](https://wssci.us/meetings/ncm2019/).
 
-This invitation-only workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural issues facing the community.
+This workshop will bring together junior faculty doing research in combustion and fire, and related fields, to discuss cultural issues facing the community. Anyone interested in participating should apply; see [Registration](registration.md) for details.
 
-All participants in the workshop are expected to comply with its [Code of Conduct](/code-of-conduct),
+All participants in the workshop are expected to comply with its [Code of Conduct](code-of-conduct.md),
 both during the workshop and in any communications associated with it before, during, or after the event itself.
 
 ### Motivation
